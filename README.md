@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AbimbolaPelumi
-- 👀 I’m interested in UX Design and Front End Development
-- 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in UI/UX Design
 - 📫 How to reach me: abimbolaoluwapelumi@gmail.com
 
 <!---
