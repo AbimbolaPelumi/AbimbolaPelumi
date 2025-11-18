@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbimbolaPelumi
-- 👀 I’m interested in UI/UX Design
+- 👀 I’m interested in Product Design and Design SYstems
 - 📫 How to reach me: abimbolaoluwapelumi@gmail.com
 
 <!---
